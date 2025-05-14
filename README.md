@@ -10,4 +10,4 @@ Welcome! This is a curated collection of my personal and professional projects. 
 # Connect with me
 [LinkedIn](https://www.linkedin.com/in/damilareteller)
 
-[Email](Dteller001@gmail.com)
+
