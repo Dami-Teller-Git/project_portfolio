@@ -1,4 +1,4 @@
-# dami-mini-project
+# Generation Bootcamp Mini Project
 
 # Project Background Overview
 My client has launched a pop-up café in a busy business district. They are offering home-made lunches and refreshments to the surrounding offices. As such, they require a software application which helps them to log and track orders. The program provides options for managing products, viewing orders, creating new orders, and handling courier services. This project is built as a simple, menu-driven program where users can interact with different features such as adding products, updating orders, and managing couriers.
