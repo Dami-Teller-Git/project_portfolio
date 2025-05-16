@@ -28,6 +28,9 @@ This project addresses those challenges by building a cloud-based data platform 
 
 Architecture Diagram of ETL Process:
 
+![image](https://github.com/user-attachments/assets/67eed100-ba05-46bf-9ac5-51271c2e0e1f)
+
+
 ## Technologies Used
 Category **|** Tools/Technologies
 
