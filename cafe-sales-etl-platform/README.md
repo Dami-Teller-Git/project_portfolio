@@ -5,7 +5,7 @@ A scalable ETL pipeline and data analytics platform designed to centralize sales
 
 ---
 
-## Project Overview
+## 🌟 Project Overview
 
 Following the success of a command-line order tracking system built for a local café, the business scaled rapidly to hundreds of outlets across the country. With this growth came new challenges: siloed data, inefficient reporting, and no centralized system to identify key customer or product trends.
 
@@ -31,7 +31,7 @@ Architecture Diagram of ETL Process:
 ![image](https://github.com/user-attachments/assets/67eed100-ba05-46bf-9ac5-51271c2e0e1f)
 
 
-## Technologies Used
+## 🛠️ Technologies Used
 Category **|** Tools/Technologies
 
 Programming Language **|**	Python
