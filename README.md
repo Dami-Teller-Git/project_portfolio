@@ -7,7 +7,7 @@ Welcome! This is a curated collection of my personal and professional projects. 
 
 **Generation Bootcamp Main Project** **|** ETL solution for café sales analysis **|** Python, PostgreSQL, AWS (Lambda, S3, Redshift, Cloudwatch)
 
-# Connect with me
+# 📫 Connect with me
 [LinkedIn](https://www.linkedin.com/in/damilareteller)
 
 
